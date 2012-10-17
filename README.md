@@ -1,6 +1,4 @@
 I want to rewrite the common lisp code of the book “land of lisp” in elisp.
-This below is the source code in elisp and some difference between common lisp and elisp.
-
 
 1.source code written in elisp (partly)
 
